@@ -1,8 +1,8 @@
 # Pragyanmayi Dash
 
-![Pragya](images/me.JPG "That's Me!")
+![Pragya](image/me.JPG "That's Me!")
 
-![Prince of all Sayans](images/vegeta.jpg "Vegeta")
+![Prince of all Sayans](image/vegeta.jpg "Vegeta")
 
 ## I belong to Odisha, India. Its famous for its architecture, Crafts and Temples.
 
@@ -10,4 +10,4 @@
 
 ## I love to travel and explore new places. I love watching Horror movies and always have a desire to visit Haunted Places.
  
-![GIT Tutorial](images/images.png "GITIT")
+![GIT Tutorial](image/images.png "GITIT")
